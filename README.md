@@ -1,6 +1,6 @@
 # cypress_cucumber_converter
 > Scripts that create .feature files and add cucumber preprocessor to cypress scripts that match a specific criteria
-# Preconditions
+## Preconditions
 - Python 3 installed
 - Use gherkin notation inside the cypress project.
 Example:
@@ -20,7 +20,7 @@ describe('As a user I want to log out from the app', () => {
   });
 });
 ```
-# Usage
+## Usage
 Place the .py files inside the folder that contains the cypress (.cy.js) scripts and run them in a terminal window by doing
 ```
 python3 AddPreprocessor.py
