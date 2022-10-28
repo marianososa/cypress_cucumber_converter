@@ -1,5 +1,5 @@
 # cypress_cucumber_converter
-> Scripts that create .feature files and add cucumber preprocessor to cypress scripts that match an specific criteria
+> Scripts that create .feature files and add cucumber preprocessor to cypress scripts that match a specific criteria
 # Preconditions
 - Python 3 installed
 - Use gherkin notation inside the cypress project.
